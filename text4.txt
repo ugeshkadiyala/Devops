@@ -1,1 +1,2 @@
 line 1 textfile4
+line1 textfile4 via branch test2
